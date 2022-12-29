@@ -38,7 +38,7 @@ h6{
 }
 
 h4,h5,h6{
-    color:#2980B9;
+    color:#f3c3ff;
     font-weight:300;
 }
 
@@ -50,8 +50,8 @@ html{
 }
 
 body{
-    background:#edf0f2;
-    color:#404040;
+    background:#161313;
+    color:#a3a3a3;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-weight:normal;
     margin:0;
@@ -77,8 +77,8 @@ b,strong{
     font-weight:bold}
 
 blockquote{
-    background-color: #F0F0F0;
-    border-left:5px solid #CCCCCC;
+    background-color: #141111;
+    border-left:5px solid #606060;
     font-style:italic;
     line-height:24px;
     margin:0px 0px 24px 0px;
@@ -413,6 +413,7 @@ table tr:nth-child(2n) td{
     #table-of-contents {
         display: none;
         width: 60%;
+	background: #1f1d1d;
     }
 
     #table-of-contents h2 a {
@@ -792,7 +793,7 @@ hr{
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#2980B9;
+    background-color:#565656;
     text-align:center;
     padding:0.809em;
     display:block;
@@ -828,7 +829,7 @@ ul.nav>li.active li.active>a {
 }
 
 ul.nav>li.active>a {
-    background-color: #fcfcfc;
+    background-color: #85858b;
     color: black !important;
     border-bottom:solid 1px #c9c9c9 !important; /* XXX Restrict it to 2nd level */
     border-right:solid 1px #c9c9c9 !important;
