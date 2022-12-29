@@ -254,7 +254,7 @@ dl dd{
 
 @media screen and (min-width: 1400px){
     #content{
-        background:rgba(0,0,0,0.05)}
+        background:#1e1e1e}
 
     #content{
         background:#fcfcfc}
@@ -413,7 +413,6 @@ table tr:nth-child(2n) td{
     #table-of-contents {
         display: none;
         width: 60%;
-	background: #1f1d1d;
     }
 
     #table-of-contents h2 a {
@@ -783,7 +782,7 @@ hr{
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
-    background:#343131;
+    background:#161313;
     z-index:200;
     scrollbar-base-color: #1F1D1D;
     scrollbar-arrow-color: #b3b3b3;
