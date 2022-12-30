@@ -976,6 +976,7 @@ footer p{
     background-color: #edd1ff;
     padding: 6px 20px;
     font-style:italic;
+    color:black;
 }
 
 #content .note .last,#content .attention .last,#content .caution .last,#content .danger .last,#content .error .last,#content .hint .last,#content .important .last,#content .tip .last,#content .warning .last,#content .seealso .last,#content .admonitiontodo .last{
