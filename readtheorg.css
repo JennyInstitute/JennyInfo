@@ -38,7 +38,7 @@ h6{
 }
 
 h4,h5,h6{
-    color:#f3c3ff;
+    color:#ffffff;
     font-weight:300;
 }
 
@@ -972,8 +972,8 @@ footer p{
     margin-bottom:24px}
 
 .verse{
-    border-left:5px solid #6AB0DE;
-    background-color: #E7F2FA;
+    border-left:5px solid #aa23ff;
+    background-color: #edd1ff;
     padding: 6px 20px;
     font-style:italic;
 }
